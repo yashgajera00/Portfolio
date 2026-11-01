@@ -56,7 +56,7 @@ app.post("/send-message", async (req, res) => {
             <div style="padding:20px;background:#020817;border-radius:12px">
               <b>Your subject:</b><p>${safe(subject)}</p>
             </div>
-            <p>Regards,<br><b style="color:#22d3ee">Yash Gajera</b><br>React Native & Full Stack Developer</p>
+            <p>Regards,<br><b style="color:#22d3ee">Yash Gajera</b><br>Python & Full Stack Developer</p>
           </div>`
       })
     ]);
